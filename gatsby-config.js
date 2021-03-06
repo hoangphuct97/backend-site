@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/backend-site",
   siteMetadata: {
     title: "Backend Site",
   },
